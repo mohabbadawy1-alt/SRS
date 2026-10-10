@@ -33,7 +33,7 @@ The team uses Trello to organize tasks and track project progress.
 
 ## Project Status
 
-Planning and requirements analysis.
+Planning and requirements analysis .
 
  
 
