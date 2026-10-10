@@ -28,7 +28,7 @@ The System Request document is available in the `docs` folder.
 ## Project Management
 
 The team uses Trello to organize tasks and track project progress.
-![Trello Board](trello.png)
+![Trello Board](trello-board.png)
 
 
 ## Project Status
